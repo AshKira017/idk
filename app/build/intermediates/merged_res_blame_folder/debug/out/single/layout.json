@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.mylibrary.app-mergeDebugResources-38:/layout/fragment_search.xml",
+        "source": "com.mylibrary.app-main-41:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.mylibrary.app-mergeDebugResources-38:/layout/fragment_book.xml",
+        "source": "com.mylibrary.app-main-41:/layout/fragment_book.xml"
+    },
+    {
+        "merged": "com.mylibrary.app-mergeDebugResources-38:/layout/item_book.xml",
+        "source": "com.mylibrary.app-main-41:/layout/item_book.xml"
+    },
+    {
+        "merged": "com.mylibrary.app-mergeDebugResources-38:/layout/fragment_note_view.xml",
+        "source": "com.mylibrary.app-main-41:/layout/fragment_note_view.xml"
+    },
+    {
+        "merged": "com.mylibrary.app-mergeDebugResources-38:/layout/fragment_note_edit.xml",
+        "source": "com.mylibrary.app-main-41:/layout/fragment_note_edit.xml"
+    },
+    {
+        "merged": "com.mylibrary.app-mergeDebugResources-38:/layout/item_search_result.xml",
+        "source": "com.mylibrary.app-main-41:/layout/item_search_result.xml"
+    },
+    {
+        "merged": "com.mylibrary.app-mergeDebugResources-38:/layout/activity_main.xml",
+        "source": "com.mylibrary.app-main-41:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.mylibrary.app-mergeDebugResources-38:/layout/item_chapter.xml",
+        "source": "com.mylibrary.app-main-41:/layout/item_chapter.xml"
+    },
+    {
+        "merged": "com.mylibrary.app-mergeDebugResources-38:/layout/fragment_settings.xml",
+        "source": "com.mylibrary.app-main-41:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.mylibrary.app-mergeDebugResources-38:/layout/item_cover.xml",
+        "source": "com.mylibrary.app-main-41:/layout/item_cover.xml"
+    },
+    {
+        "merged": "com.mylibrary.app-mergeDebugResources-38:/layout/fragment_cover_picker.xml",
+        "source": "com.mylibrary.app-main-41:/layout/fragment_cover_picker.xml"
+    },
+    {
+        "merged": "com.mylibrary.app-mergeDebugResources-38:/layout/fragment_shelf.xml",
+        "source": "com.mylibrary.app-main-41:/layout/fragment_shelf.xml"
+    }
+]
