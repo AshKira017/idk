@@ -59,7 +59,6 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:orientation="horizontal"
-                android:gap="18dp"
                 android:layout_marginBottom="28dp">
 
                 <ImageView
@@ -75,6 +74,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:orientation="vertical"
+                    android:marginStart="18dp"
                     android:layout_gravity="center_vertical">
 
                     <TextView

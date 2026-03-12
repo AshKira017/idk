@@ -66,8 +66,7 @@
         android:paddingEnd="10dp"
         android:paddingTop="6dp"
         android:paddingBottom="6dp"
-        android:background="@color/surface1"
-        android:gap="8dp">
+        android:background="@color/surface1">
 
         <Button
             android:id="@+id/btn_edit"
@@ -84,6 +83,7 @@
 
         <Button
             android:id="@+id/btn_delete"
+            android:layout_marginStart="8dp"
             android:layout_width="wrap_content"
             android:layout_height="30dp"
             android:text="Delete"
